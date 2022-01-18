@@ -24,9 +24,3 @@
   color: red;
 }
 ```
-<ol>
-    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-    <li>Nulla facilisi etiam dignissim diam quis enim</li>
-    <li>Sit amet purus gravida quis blandit turpis</li>
-    <li>Mauris cursus mattis molestie a iaculis at erat pellentesque adipiscing</li>
-</ol>
